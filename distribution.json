@@ -1,9 +1,8 @@
 {
   "version": "1.0.0",
   "rss": "",
-  "servers": [
-    {
-      "id": "main",
+  "servers": {
+    "main": {
       "name": "Macherry Server",
       "description": "Minecraft 1.21.1 Fabric Server",
       "icon": "",
@@ -16,5 +15,5 @@
       "mainServer": true,
       "type": "release"
     }
-  ]
+  }
 }
