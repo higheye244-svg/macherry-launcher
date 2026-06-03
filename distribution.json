@@ -5,7 +5,7 @@
     {
       "id": "main",
       "name": "Macherry Server",
-      "description": "Test Server",
+      "description": "Minecraft 1.21.1 Fabric Server",
       "address": "www.macherry.p-e.kr",
       "minecraftVersion": "1.21.1",
       "mainServer": true
