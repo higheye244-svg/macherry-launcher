@@ -1,5 +1,5 @@
 {
-  "version": "1.21.1",
+  "version": "1.0.0",
   "rss": "",
   "servers": [
     {
@@ -10,7 +10,11 @@
       "version": "1.21.1",
       "minecraftVersion": "1.21.1",
       "address": "www.macherry.p-e.kr",
-      "mainServer": true
+      "javaVersion": {
+        "majorVersion": 17
+      },
+      "mainServer": true,
+      "type": "release"
     }
   ]
 }
